@@ -4,10 +4,10 @@ This is a standard Tic Tac Toe game implemented in C#.
 
 ## How to Use
 
-You can easily try out the game by copying and pasting the 'Program' file code into an online C# compiler. Follow these steps:
+You can easily try out the game by copying and pasting Program.cs into an online C# compiler. Follow these steps:
 
 1. Open your favorite C# online compiler (e.g., [dotnetfiddle](https://dotnetfiddle.net/), [Programiz](https://www.programiz.com/csharp-programming/online-compiler/), etc.).
-2. Create a new C# project or paste the entire script into the code editor.
+2. Create a new C# project or paste the entire code inside Program.cs into the code editor.
 3. Run the project to play the Tic Tac Toe game.
 
 ## Game Rules
