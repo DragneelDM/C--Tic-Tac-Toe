@@ -1,0 +1,44 @@
+C:\Madhan\TicTacToe\bin\Debug\net6.0\TicTacToe.exe
+C:\Madhan\TicTacToe\bin\Debug\net6.0\TicTacToe.deps.json
+C:\Madhan\TicTacToe\bin\Debug\net6.0\TicTacToe.runtimeconfig.json
+C:\Madhan\TicTacToe\bin\Debug\net6.0\TicTacToe.dll
+C:\Madhan\TicTacToe\bin\Debug\net6.0\TicTacToe.pdb
+C:\Madhan\TicTacToe\obj\Debug\net6.0\TicTacToe.csproj.AssemblyReference.cache
+C:\Madhan\TicTacToe\obj\Debug\net6.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Madhan\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Madhan\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfo.cs
+C:\Madhan\TicTacToe\obj\Debug\net6.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Madhan\TicTacToe\obj\Debug\net6.0\TicTacToe.dll
+C:\Madhan\TicTacToe\obj\Debug\net6.0\refint\TicTacToe.dll
+C:\Madhan\TicTacToe\obj\Debug\net6.0\TicTacToe.pdb
+C:\Madhan\TicTacToe\obj\Debug\net6.0\TicTacToe.genruntimeconfig.cache
+C:\Madhan\TicTacToe\obj\Debug\net6.0\ref\TicTacToe.dll
+\\SCOOBY\Public Folder\Madhan\C#\TicTacToe\bin\Debug\net6.0\TicTacToe.exe
+\\SCOOBY\Public Folder\Madhan\C#\TicTacToe\bin\Debug\net6.0\TicTacToe.deps.json
+\\SCOOBY\Public Folder\Madhan\C#\TicTacToe\bin\Debug\net6.0\TicTacToe.runtimeconfig.json
+\\SCOOBY\Public Folder\Madhan\C#\TicTacToe\bin\Debug\net6.0\TicTacToe.dll
+\\SCOOBY\Public Folder\Madhan\C#\TicTacToe\bin\Debug\net6.0\TicTacToe.pdb
+\\SCOOBY\Public Folder\Madhan\C#\TicTacToe\obj\Debug\net6.0\TicTacToe.csproj.AssemblyReference.cache
+\\SCOOBY\Public Folder\Madhan\C#\TicTacToe\obj\Debug\net6.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+\\SCOOBY\Public Folder\Madhan\C#\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfoInputs.cache
+\\SCOOBY\Public Folder\Madhan\C#\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfo.cs
+\\SCOOBY\Public Folder\Madhan\C#\TicTacToe\obj\Debug\net6.0\TicTacToe.csproj.CoreCompileInputs.cache
+\\SCOOBY\Public Folder\Madhan\C#\TicTacToe\obj\Debug\net6.0\TicTacToe.dll
+\\SCOOBY\Public Folder\Madhan\C#\TicTacToe\obj\Debug\net6.0\refint\TicTacToe.dll
+\\SCOOBY\Public Folder\Madhan\C#\TicTacToe\obj\Debug\net6.0\TicTacToe.pdb
+\\SCOOBY\Public Folder\Madhan\C#\TicTacToe\obj\Debug\net6.0\TicTacToe.genruntimeconfig.cache
+\\SCOOBY\Public Folder\Madhan\C#\TicTacToe\obj\Debug\net6.0\ref\TicTacToe.dll
+Z:\Madhan\C#\TicTacToe\bin\Debug\net6.0\TicTacToe.exe
+Z:\Madhan\C#\TicTacToe\bin\Debug\net6.0\TicTacToe.deps.json
+Z:\Madhan\C#\TicTacToe\bin\Debug\net6.0\TicTacToe.runtimeconfig.json
+Z:\Madhan\C#\TicTacToe\bin\Debug\net6.0\TicTacToe.dll
+Z:\Madhan\C#\TicTacToe\bin\Debug\net6.0\TicTacToe.pdb
+Z:\Madhan\C#\TicTacToe\obj\Debug\net6.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Madhan\C#\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfoInputs.cache
+Z:\Madhan\C#\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfo.cs
+Z:\Madhan\C#\TicTacToe\obj\Debug\net6.0\TicTacToe.csproj.CoreCompileInputs.cache
+Z:\Madhan\C#\TicTacToe\obj\Debug\net6.0\TicTacToe.dll
+Z:\Madhan\C#\TicTacToe\obj\Debug\net6.0\refint\TicTacToe.dll
+Z:\Madhan\C#\TicTacToe\obj\Debug\net6.0\TicTacToe.pdb
+Z:\Madhan\C#\TicTacToe\obj\Debug\net6.0\TicTacToe.genruntimeconfig.cache
+Z:\Madhan\C#\TicTacToe\obj\Debug\net6.0\ref\TicTacToe.dll
